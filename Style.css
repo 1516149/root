@@ -1,0 +1,34 @@
+@charset "utf-8";
+body{background-color:cadetblue;
+}
+h1{text-align: center;
+} 
+
+h3{text-align: center;}
+
+img{width: 25%;
+	height:300px; 
+}
+
+ul {list-style-type: none;
+     margin:0;
+     padding:0;
+      overflow: hidden;
+      background-color:black;
+font-size: 30px;}
+
+li{float:right;}
+
+a{ display: block;
+       width: 60px;
+        text-decoration: none; 
+}
+
+li a:hover{ background-color:aliceblue;
+            color: white;}
+
+.active{background-color: #4CAF50;
+	color: white;}
+
+
+h1{font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
